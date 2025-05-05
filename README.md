@@ -18,8 +18,9 @@
 
 - 💌 Puedes escribirme por [Kevindanielm2004@gmail.com](mailto:Kevindanielm2004@gmail.com)
 - 💼 También puedes ver mi [Itch.io](https://just-kvin.itch.io)
-- 
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kairbros&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kairbros&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kairbros&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kairbros&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kairbros&theme=2077&utcOffset=8)
