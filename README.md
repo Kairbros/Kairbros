@@ -1,8 +1,6 @@
 # 👋 ¡Hola! Soy Kevin
 
-🎮 **Desarrollador de videojuegos** con pasión por crear experiencias memorables, desde plataformas con mecánicas únicas hasta aventuras con estilo propio.  
-🛠️ Trabajo principalmente con **Godot Engine 4** y **Unity**, usando tanto **GDScript** como **C#**.  
-✨ Me gusta combinar mecánicas simples con ideas originales para lograr juegos pulidos, divertidos y con un toque personal.
+🎮 **Desarrollador de videojuegos**
 
 ## 🧠 Sobre mí
 
@@ -11,8 +9,8 @@
 ## 🛠️ Tecnologías y herramientas
 
 - **Lenguajes:** GDScript, C#, Java, Python
-- **Motores de juego:** Godot Engine 4
-- **Herramientas:** Blender (modelado y animación), Git, GitHub
+- **Motores de juego:** Godot Engine 4, Unity, Unreal
+- **Herramientas:** Blender
 
 ## 📫 ¿Quieres contactarme?
 
