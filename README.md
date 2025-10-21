@@ -1,21 +1,26 @@
-# 👋 ¡Hola! Soy Kevin
+Kevin Murcia
 
-🎮 **Desarrollador de videojuegos**
+Desarrollador de Software
 
-## 🧠 Sobre mí
+Sobre mí
 
-- 🧩 Disfruto diseñar **juegos de puzzles, plataformas y exploración**, a menudo con una mecánica central llamativa.
+Soy un desarrollador apasionado por crear soluciones eficientes, intuitivas y escalables.
+Disfruto trabajar en proyectos que combinan automatización, desarrollo web y diseño de sistemas, aplicando buenas prácticas y tecnologías modernas para mejorar procesos y experiencias digitales.
 
-## 🛠️ Tecnologías y herramientas
+Tecnologías y herramientas
 
-- **Lenguajes:** GDScript, C#, Java, Python
-- **Motores de juego:** Godot Engine 4, Unity, Unreal
-- **Herramientas:** Blender
+Lenguajes: JavaScript, Python, C#, Java, GDScript
 
-## 📫 ¿Quieres contactarme?
+Tecnologías: React, Node.js, n8n, REST APIs, JSON
 
-- 💌 Puedes escribirme a través de: kevindanielm2004@gmail.com
-- 💼 También puedes ver mi [Itch.io](https://just-kvin.itch.io)
+Herramientas: Git, Docker, Visual Studio Code, Blender
+
+
+¿Quieres contactarme?
+
+Puedes escribirme a: kevindanielm2004@gmail.com
+
+
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kairbros&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kairbros&theme=2077)
