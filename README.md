@@ -1,13 +1,9 @@
 # Kevin Murcia
 ### Desarrollador de Software
 
----
-
 ## Sobre mí
 Soy un desarrollador apasionado por crear **soluciones eficientes, intuitivas y escalables**.  
 Disfruto trabajar en proyectos que combinan **automatización**, **desarrollo web** y **diseño de sistemas**, aplicando **buenas prácticas** y **tecnologías modernas** para mejorar procesos y experiencias digitales.
-
----
 
 ## Tecnologías y herramientas
 
@@ -30,8 +26,6 @@ Disfruto trabajar en proyectos que combinan **automatización**, **desarrollo we
 - Docker  
 - Visual Studio Code  
 - Blender  
-
----
 
 ## ¿Quieres contactarme?
 **Correo:** [kevindanielm2004@gmail.com](mailto:kevindanielm2004@gmail.com)
