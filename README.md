@@ -1,24 +1,41 @@
-Kevin Murcia
+# Kevin Murcia
+### Desarrollador de Software
 
-Desarrollador de Software
+---
 
-Sobre mí
+## Sobre mí
+Soy un desarrollador apasionado por crear **soluciones eficientes, intuitivas y escalables**.  
+Disfruto trabajar en proyectos que combinan **automatización**, **desarrollo web** y **diseño de sistemas**, aplicando **buenas prácticas** y **tecnologías modernas** para mejorar procesos y experiencias digitales.
 
-Soy un desarrollador apasionado por crear soluciones eficientes, intuitivas y escalables.
-Disfruto trabajar en proyectos que combinan automatización, desarrollo web y diseño de sistemas, aplicando buenas prácticas y tecnologías modernas para mejorar procesos y experiencias digitales.
+---
 
-Tecnologías y herramientas
+## Tecnologías y herramientas
 
-Lenguajes: JavaScript, Python, C#, Java, GDScript
+### Lenguajes
+- JavaScript  
+- Python  
+- C#  
+- Java  
+- GDScript  
 
-Tecnologías: React, Node.js, n8n, REST APIs, JSON
+### Tecnologías
+- React  
+- Node.js  
+- n8n  
+- REST APIs  
+- JSON  
 
-Herramientas: Git, Docker, Visual Studio Code, Blender
+### Herramientas
+- Git  
+- Docker  
+- Visual Studio Code  
+- Blender  
 
+---
 
-¿Quieres contactarme?
+## ¿Quieres contactarme?
+**Correo:** [kevindanielm2004@gmail.com](mailto:kevindanielm2004@gmail.com)
 
-Puedes escribirme a: kevindanielm2004@gmail.com
 
 
   
