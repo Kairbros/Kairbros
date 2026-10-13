@@ -10,4 +10,6 @@ Soy una persona apasionada por el tema del desarrollo de aplicaciones, sobre tod
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kairbros&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kairbros&theme=2077)
 
-![Logo del proyecto](rals.png)
+<p align="left">
+  <img src="rals.png" width="300" alt="Imagen de Rals">
+</p>
